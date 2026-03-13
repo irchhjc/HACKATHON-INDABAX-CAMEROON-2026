@@ -52,7 +52,7 @@ Les participants concevront des modèles prédictifs, des tableaux de bord inter
 
 ## 🔬 Problem Statement
 
-Cameroon faces increasing air quality degradation driven by climate variability (heat peaks, wind stagnation, dust storms). The absence of predictive tools limits preventive public health action.
+Cameroon faces increasing air quality degradation driven by climate variability (heat peaks, wind stagnation, dust storms). The absence of predictive tools limits preventive public health action. This challenge has a strong **spatio-temporal dimension**: pollution patterns vary significantly across regions and seasons, making it essential to model both the geographic distribution and the temporal evolution of air quality indicators.
 
 **Your mission:**
 - 🔮 **Predict** air pollution indicators from meteorological data
@@ -64,7 +64,7 @@ Cameroon faces increasing air quality degradation driven by climate variability 
 
 ## 🔬 Problématique
 
-Le Cameroun est confronté à une dégradation croissante de la qualité de l'air, amplifiée par la variabilité climatique (pics de chaleur, stagnation des vents, tempêtes de poussière).
+Le Cameroun est confronté à une dégradation croissante de la qualité de l'air, amplifiée par la variabilité climatique (pics de chaleur, stagnation des vents, tempêtes de poussière). Ce défi présente une forte **dimension spatio-temporelle** : les profils de pollution varient significativement selon les régions et les saisons, ce qui implique de modéliser à la fois la distribution géographique et l'évolution temporelle des indicateurs de qualité de l'air.
 
 **Votre mission :**
 - 🔮 **Prédire** les indicateurs de pollution de l'air à partir des données météorologiques
@@ -112,6 +112,8 @@ Le Cameroun est confronté à une dégradation croissante de la qualité de l'ai
 
 ## 📦 Dataset
 
+> ⚠️ **These are the baseline data** provided to all participants as a starting point. Enriching them with additional variables from [open-meteo.com](https://open-meteo.com/) is optional.
+
 The official dataset was collected via the **[Open-Meteo API](https://open-meteo.com/)** — a free, open-source weather API.
 
 | Property | Value |
@@ -138,6 +140,8 @@ The official dataset was collected via the **[Open-Meteo API](https://open-meteo
 <td>
 
 ## 📦 Données
+
+> ⚠️ **Ce sont les données de base** fournies à tous les participants comme point de départ. Les enrichir avec des variables supplémentaires issues de [open-meteo.com](https://open-meteo.com/) est optionnel.
 
 Le dataset officiel a été collecté via l'**[API Open-Meteo](https://open-meteo.com/)** — une API météo gratuite et open-source.
 
@@ -301,59 +305,6 @@ Au-delà des récompenses financières, les meilleures équipes bénéficieront 
 
 </td>
 </tr>
-
-<!-- ═══════════════════════════════════════════════════════ REPO STRUCTURE -->
-<tr>
-<td>
-
-## 📁 Repository Structure
-
-```
-hackathon-indabax-cameroon-2026/
-│
-├── 📓 notebooks/
-│   ├── starter_notebook_EN.ipynb   ← Start here (English)
-│   └── starter_notebook_FR.ipynb   ← Commencez ici (Français)
-│
-├── 📦 data/
-│   ├── Dataset_complet_Meteo.xlsx  ← Official dataset
-│   └── README.md                   ← How to fetch extra data
-│
-├── 🖥️ dashboard_template/
-│   └── app_template.py             ← Streamlit starter template
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
-</td>
-<td>
-
-## 📁 Structure du Dépôt
-
-```
-hackathon-indabax-cameroon-2026/
-│
-├── 📓 notebooks/
-│   ├── starter_notebook_EN.ipynb   ← Start here (English)
-│   └── starter_notebook_FR.ipynb   ← Commencez ici (Français)
-│
-├── 📦 data/
-│   ├── Dataset_complet_Meteo.xlsx  ← Dataset officiel
-│   └── README.md                   ← Comment récupérer des données
-│
-├── 🖥️ dashboard_template/
-│   └── app_template.py             ← Template Streamlit
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
-</td>
-</tr>
-
 
 </table>
 
