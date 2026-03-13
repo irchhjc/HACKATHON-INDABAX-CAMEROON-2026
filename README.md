@@ -354,49 +354,6 @@ hackathon-indabax-cameroon-2026/
 </td>
 </tr>
 
-<!-- ═══════════════════════════════════════════════════════ QUICKSTART -->
-<tr>
-<td>
-
-## ⚡ Quick Start
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/indabax-cm/hackathon-2026.git
-cd hackathon-indabax-cameroon-2026
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Open the starter notebook
-jupyter notebook notebooks/starter_notebook_EN.ipynb
-
-# 4. (Optional) Launch the dashboard template
-streamlit run dashboard_template/app_template.py
-```
-
-</td>
-<td>
-
-## ⚡ Démarrage Rapide
-
-```bash
-# 1. Cloner ce dépôt
-git clone https://github.com/indabax-cm/hackathon-2026.git
-cd hackathon-indabax-cameroon-2026
-
-# 2. Installer les dépendances
-pip install -r requirements.txt
-
-# 3. Ouvrir le starter notebook
-jupyter notebook notebooks/starter_notebook_FR.ipynb
-
-# 4. (Optionnel) Lancer le template dashboard
-streamlit run dashboard_template/app_template.py
-```
-
-</td>
-</tr>
 
 </table>
 
