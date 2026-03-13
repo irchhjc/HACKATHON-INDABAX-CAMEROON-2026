@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/IndabaX-Cameroon%202026-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hackathon-Climate%20%26%20Health%20AI-blue?style=for-the-badge" />
+<img src="https://www.indabaxcameroon.org/" />
+<img src="https://www.indabaxcameroon.org/hackhaton" />
 <img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
 
