@@ -176,7 +176,7 @@ Le dataset officiel a été collecté via l'**[API Open-Meteo](https://open-mete
 - Performance justification: metrics, validation, generalisation
 
 ### 2️⃣ Interactive Dashboard
-Tools: Streamlit, Dash, Shiny or equivalent  
+Tools: Streamlit, Dash, Shiny, **FastAPI**, **Flask** (`.pkl`) or equivalent  
 Must include:
 - 🗺️ Air pollution heatmap
 - 📊 Climate vs air quality comparison
@@ -198,7 +198,7 @@ Must include:
 - Justification des performances : métriques, validation, généralisation
 
 ### 2️⃣ Tableau de Bord Interactif
-Outils : Streamlit, Dash, Shiny ou équivalent  
+Outils : Streamlit, Dash, Shiny, **FastAPI**, **Flask** (`.pkl`) ou équivalent  
 Doit inclure :
 - 🗺️ Carte de chaleur de la pollution
 - 📊 Comparaison climat vs qualité de l'air
