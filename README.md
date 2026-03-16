@@ -11,13 +11,6 @@
 
 </div>
 
----
-
-> **🇫🇷 Lisez ce README en français à droite · 🇬🇧 Read this README in English on the left**  
-> *Scroll down — each section appears side by side / Faites défiler — chaque section apparaît côte à côte*
-
----
-
 <table>
 <tr>
 <th width="50%">English</th>
