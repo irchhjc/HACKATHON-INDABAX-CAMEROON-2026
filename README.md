@@ -127,7 +127,7 @@ The official dataset was collected via the **[Open-Meteo API](https://open-meteo
 | 🌍 Geography | city, region, latitude, longitude |
 | 📐 Other | ET₀ FAO evapotranspiration, daylight duration, weather code |
 
-> 💡 **Tip:** You can enrich your analysis with additional variables available on [open-meteo.com](https://open-meteo.com/) (hourly data, air quality, climate models, etc.) — see [`data/README.md`](data/README.md)
+> 💡 **Tip:** You can enrich your analysis with additional variables available on [open-meteo.com](https://open-meteo.com/) (hourly data, air quality, climate models, etc.)
 
 </td>
 <td>
@@ -156,7 +156,7 @@ Le dataset officiel a été collecté via l'**[API Open-Meteo](https://open-mete
 | 🌍 Géographie | ville, région, latitude, longitude |
 | 📐 Autres | ET₀ FAO, durée du jour, code météo |
 
-> 💡 **Conseil :** Vous pouvez enrichir votre analyse avec des variables supplémentaires disponibles sur [open-meteo.com](https://open-meteo.com/) (données horaires, qualité de l'air, modèles climatiques, etc.) — voir [`data/README.md`](data/README.md)
+> 💡 **Conseil :** Vous pouvez enrichir votre analyse avec des variables supplémentaires disponibles sur [open-meteo.com](https://open-meteo.com/) (données horaires, qualité de l'air, modèles climatiques, etc.)
 
 </td>
 </tr>
