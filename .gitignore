@@ -20,48 +20,8 @@ build/
 
 # ── Data files (large / sensitive) ────────────────────────────────────────────
 data/*.xlsx
-data/*.csv
-data/*.parquet
-data/*.json
-# Keep data/README.md
-!data/README.md
-
-# ── ML models & serialized objects ────────────────────────────────────────────
-*.pkl
-*.joblib
-*.h5
-*.pt
-*.pth
-*.onnx
-models/
 
 # ── Environment variables ──────────────────────────────────────────────────────
 .env
 .env.*
 !.env.example
-
-# ── OS files ───────────────────────────────────────────────────────────────────
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ── IDE / editors ──────────────────────────────────────────────────────────────
-.vscode/settings.json
-.idea/
-*.swp
-*.swo
-
-# ── Logs & temp ────────────────────────────────────────────────────────────────
-*.log
-logs/
-tmp/
-temp/
-.cache/
-
-# ── Streamlit ──────────────────────────────────────────────────────────────────
-.streamlit/secrets.toml
-
-# ── pytest / coverage ─────────────────────────────────────────────────────────
-.pytest_cache/
-.coverage
-htmlcov/
