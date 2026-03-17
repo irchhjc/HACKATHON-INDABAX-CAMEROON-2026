@@ -299,16 +299,11 @@ Au-delà des récompenses financières, les meilleures équipes bénéficieront 
 </td>
 </tr>
 
-</table>
-
 ---
 
-<div align="center">
+## 📢 Guide du Pitch Deck
 
-**Made with ❤️ for IndabaX Cameroon 2026**  
-*Advancing AI in Africa · L'IA au service de l'Afrique*
-
-[![Open-Meteo](https://img.shields.io/badge/Data%20Source-Open--Meteo-orange)](https://open-meteo.com/)
-[![IndabaX](https://img.shields.io/badge/Community-Deep%20Learning%20Indaba-purple)](https://deeplearningindaba.com/)
+Pour vous aider à préparer efficacement votre pitch, consultez le guide suivant :
+[Guide du Pitch Deck IndabaX Cameroon 2026](https://www.notion.so/Guide-du-Pitch-Deck-IndabaX-Cameroon-2026-2d26044aa2d28039b8a5d4903f7797a6)
 
 </div>
