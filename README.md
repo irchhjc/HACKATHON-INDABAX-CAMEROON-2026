@@ -107,7 +107,7 @@ Le Cameroun est confronté à une dégradation croissante de la qualité de l'ai
 
 > ⚠️ **These are the baseline data** provided to all participants as a starting point. Enriching them with additional variables from [open-meteo.com](https://open-meteo.com/) is optional.
 
-The official dataset was collected via the **[Open-Meteo API](https://open-meteo.com/)** — a free, open-source weather API.
+The official dataset was collected via the **[Open-Meteo API](https://open-meteo.com/)** - a free, open-source weather API.
 
 | Property | Value |
 |---|---|
@@ -180,7 +180,7 @@ Must include:
 - 🚦 Simple alert indicators (colour codes)
 
 ### 3️⃣ Impact Strategy & Communication
-- **Pitch deck:** 5–7 slides (PDF)
+- **Pitch deck:** 5-7 slides (PDF)
 - **Demo video:** max 3 minutes
 - *(Optional)* Short technical report
 
