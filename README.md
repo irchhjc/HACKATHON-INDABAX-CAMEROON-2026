@@ -140,7 +140,7 @@ Le dataset officiel a été collecté via l'**[API Open-Meteo](https://open-mete
 
 | Propriété | Valeur |
 |---|---|
-| 📍 Couverture | 42 villes sur 10 régions |
+| 📍 Couverture | 40 villes sur 10 régions |
 | 📅 Période | Janvier 2020 → Décembre 2025 |
 | 📊 Volume | 87 240 observations journalières |
 | 📁 Format | Excel (`.xlsx`) |
