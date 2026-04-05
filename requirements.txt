@@ -16,5 +16,3 @@ requests
 openmeteo-requests
 requests-cache
 retry-requests
-jupyter
-ipykernel
